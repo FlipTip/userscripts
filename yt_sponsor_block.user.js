@@ -2,7 +2,8 @@
 // @name         YouTube ads skip with SponsorBlock
 // @version      1
 // @description  Skip ads on YouTube with SponsorBlock.
-// @author       Hyperweb
+// @author       FlipTip forked from Hyperweb
+// @updateURL    https://raw.githubusercontent.com/FlipTip/userscripts/main/yt_sponsor_block.user.js
 // @match        m.youtube.com
 // @match        www.youtube.com
 // @match        www.youtube-nocookie.com
