@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube ads skip with SponsorBlock
-// @version      0.0.1
+// @version      1
 // @description  Skip ads on YouTube with SponsorBlock.
 // @author       Hyperweb
 // @match        m.youtube.com
