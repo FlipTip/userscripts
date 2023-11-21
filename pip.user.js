@@ -1,3 +1,9 @@
+// ==UserScript==
+// @name        PiP
+// @description This is your new file, start writing code
+// @match       *://*/*
+// ==/UserScript==
+
 (function() {
   function act() {
     let v = document.querySelector('video');
